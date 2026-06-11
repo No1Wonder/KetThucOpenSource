@@ -39,5 +39,13 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f0cc7c20-bfad-43ce-ac94-13520c2bd7b6" />
 # Tạo giao diện Web Front-end lấy số realtime
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c73e108a-0749-4b8a-973f-6abafed974ee" />
-# Kích hoạt hệ thống và chuẩn bị làm phần Logic
+# CẤU HÌNH LOGIC LẬP TRÌNH TRÊN NODE-RED
++ Tìm và cài đặt thư viện: node-red-node-mysql
++ Tìm và cài đặt thư viện: node-red-contrib-influxdb
+# Thiết lập Luồng lấy dữ liệu tự động giá vàng
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/75bb1255-9d97-446e-affb-8420650fffc4" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fc9f33bc-5ca7-4813-9c6a-ea2b9e68f0ab" />
+
+# cấu trúc cảu Node sẽ như sau 
+<img width="1112" height="345" alt="image" src="https://github.com/user-attachments/assets/d2ba37a8-818c-4dd5-9ec5-b0c0bacf430d" />
 
