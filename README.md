@@ -32,20 +32,55 @@
 
 
 ## Thực hành: 
+
 # tắt môi trường cũ và khởi tạo môi trường cho bài 5
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/11ffcfdb-30f7-49d8-bf5a-09f9952130b6" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0b0a5578-8a98-4a6c-a15b-4f5770aaf146" />
 # Tạo file cấu hình Routing cho Nginx
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f0cc7c20-bfad-43ce-ac94-13520c2bd7b6" />
+
 # Tạo giao diện Web Front-end lấy số realtime
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c73e108a-0749-4b8a-973f-6abafed974ee" />
+
 # CẤU HÌNH LOGIC LẬP TRÌNH TRÊN NODE-RED
 + Tìm và cài đặt thư viện: node-red-node-mysql
 + Tìm và cài đặt thư viện: node-red-contrib-influxdb
+
 # Thiết lập Luồng lấy dữ liệu tự động giá vàng
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/75bb1255-9d97-446e-affb-8420650fffc4" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fc9f33bc-5ca7-4813-9c6a-ea2b9e68f0ab" />
 
 # cấu trúc cảu Node sẽ như sau 
+
 <img width="1112" height="345" alt="image" src="https://github.com/user-attachments/assets/d2ba37a8-818c-4dd5-9ec5-b0c0bacf430d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e2f44e80-8db4-446b-bab5-eabf4fdf1f78" />
+
+# setting Influxdb
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/49fc978a-9f15-4a0a-8d08-aa8f40b68694" />
+
+# setting Grafana
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/24f72680-d209-45b9-b69b-eae24cc7ef08" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b5094fec-efc1-43e7-8e2b-c9f70acb5bcc" />
+
+# kết quả sau khi hoàn thành
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0eb31b4e-371b-49da-b720-62a0e5b10893" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/763713cf-66c8-4c06-89cb-d5e6666473ff" />
+
+# đóng gói các thành phần và down hết các dữ liệu cũ
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e4444dbf-1b1c-4a54-9180-0f40d022e631" />
+
+# Load lại các container từ file nén để khôi phục
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2c512e5d-8f07-4777-bc28-99b56054522b" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b5c56cc6-3f31-425f-bd56-5c71bebb552a" />
+
+# Và web vẫn còn nguyên
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9199e8f9-df14-47ef-8bfb-7e02ecbe773f" />
 
