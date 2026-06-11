@@ -28,4 +28,16 @@
   + Bước 3 (Di chuyển file vật lý): Copy file my_app_images.tar và file docker-compose.yml vào ổ cứng di động/USB hoặc đẩy qua mạng LAN nội bộ vào máy chủ thật.
   + Bước 4 (Tải Image vào máy chủ thật): Trên máy chủ thật, chạy lệnh docker load để giải nén nạp lại các Image vào bộ nhớ Docker của máy chủ:
     + docker load -i my_app_images.tar
-  +Bước 5 (Khởi chạy dịch vụ): Chạy lệnh docker compose up -d ngay tại thư mục chứa file cấu hình. Hệ thống tự lên mà không cần tải bất kỳ byte dữ liệu nào từ Internet
+  + Bước 5 (Khởi chạy dịch vụ): Chạy lệnh docker compose up -d ngay tại thư mục chứa file cấu hình. Hệ thống tự lên mà không cần tải bất kỳ byte dữ liệu nào từ Internet
+
+
+## Thực hành: 
+# tắt môi trường cũ và khởi tạo môi trường cho bài 5
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/11ffcfdb-30f7-49d8-bf5a-09f9952130b6" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0b0a5578-8a98-4a6c-a15b-4f5770aaf146" />
+# Tạo file cấu hình Routing cho Nginx
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f0cc7c20-bfad-43ce-ac94-13520c2bd7b6" />
+# Tạo giao diện Web Front-end lấy số realtime
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c73e108a-0749-4b8a-973f-6abafed974ee" />
+# Kích hoạt hệ thống và chuẩn bị làm phần Logic
+
